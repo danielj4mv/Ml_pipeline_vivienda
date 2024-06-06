@@ -1,0 +1,11 @@
+fake-useragent==1.4.0
+python-dotenv
+requests
+pymongo
+numpy
+Scrapy
+scrapyd
+scrapy-splash
+dnspython
+nbformat
+session_info
